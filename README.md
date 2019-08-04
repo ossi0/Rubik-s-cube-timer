@@ -15,5 +15,4 @@ node server.js
 3. Install Node.js -- https://nodejs.org/en/
 4. On command line go to this app's directory and write:
 -- npm install express
--- npm install
 -- npm install body-parser
